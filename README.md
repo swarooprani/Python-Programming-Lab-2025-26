@@ -14,7 +14,8 @@ The lab programs cover fundamental and core Python concepts such as:
 - Numpy/Pandas
 - Visualization
 
-(Refer to the **Program_List** folder for the complete list.)
+(Refer to the [Program_List](./Program_List) folder for the complete list.)
+
 
 ---
 
